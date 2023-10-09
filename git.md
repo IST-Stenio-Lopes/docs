@@ -61,7 +61,7 @@ O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema 
    ```
    git add <caminho_do(s)_arquivo(s)>
    git commit -m "Mensagem do commit"
-   git push
+   git push origin <nome-da-branch>
    ```
 
 2. **Pull Requests (PRs):** Após concluir as alterações, envie um PR para mesclar sua branch com a branch principal.
